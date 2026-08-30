@@ -71,9 +71,13 @@ The focus is on writing, compiling, running, reading errors, and repeating progr
 
 ## Visual Notes
 
+### Day 01–03 Learning Overview
+
+![Java Learning Journey — Day 01 to Day 03](assets/java-learning-journey-day-01-03.png)
+
 ### Java Program Execution
 
-![Java Program Execution Flow](assets/java-program-execution-updated-Day1-Day3.png)
+![Java Program Execution Flow](assets/java-program-execution.png)
 
 > `.java → javac → .class → JVM → Output`
 
