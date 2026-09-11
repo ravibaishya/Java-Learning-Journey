@@ -576,7 +576,6 @@ Day-05/
     └── [self-practice files]
 ```
 
-The classroom files should be preserved as they were used during the lesson. Additional self-practice should be kept separately under `Exercises/`.
 
 ---
 
