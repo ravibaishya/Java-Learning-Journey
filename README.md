@@ -54,6 +54,7 @@ Each learning session is documented with notes, classroom examples, and practice
 | [Day 03](Day-03/README.md) | Classes, Methods & Program Flow | Classes, methods, `public`, `static`, `void`, `String[] args`, naming conventions, multiple classes and basic program flow |
 | [Day 04](Day-04/README.md) | Command-Line Arguments | Hardcoding, dynamic input, command-line arguments, `String[] args`, array indexing, Program Arguments vs JVM Arguments, and Java execution |
 | [Day 05](Day-05/README.md) | String to Number Conversion & Java Runtime | `Integer.parseInt()`, String-to-int conversion, arithmetic with command-line input, JDK, JRE, JVM, JAR, decompilation, identifiers and reserved keywords |
+| [Day 06–07](Day-06-07/README.md) | Data Types & Variables | Primitive data types, variables, default values, scope, local/instance/static variables, object vs class ownership, and basic JVM memory concepts |
 | [Day 01–03](Day-01-03-Overview.md) | Combined Overview | Consolidated notes from the first three Java learning sessions |
 
 ---
@@ -62,7 +63,7 @@ Each learning session is documented with notes, classroom examples, and practice
 
 The repository includes classroom-based Java examples and simple practice exercises alongside the learning notes.
 
-### Day 03–05 Practice
+### Day 03–07 Practice
 
 Each learning day includes practice material based on the concepts covered in that session.
 
@@ -76,6 +77,7 @@ The focus is on writing, compiling, running, reading errors, and repeating progr
 
 - **Day 04:** Command-line arguments and dynamic input
 - **Day 05:** String-to-number conversion using `Integer.parseInt()` and basic Java runtime concepts
+- **Day 06–07:** Primitive data types, variables, scope, default values, and Local vs Instance vs Static variables
 
 ---
 
@@ -98,6 +100,10 @@ The focus is on writing, compiling, running, reading errors, and repeating progr
 ### Day 05 — From Strings to Numbers
 
 ![Java Day 05 — From Strings to Numbers](assets/java-day-05-string-to-number.png)
+
+### Day 06–07 — Data Types & Variables
+
+![Java Day 06–07 — Data Types & Variables](assets/java-day-06-07-data-types-and-variables.png)
 
 ---
 
@@ -131,6 +137,12 @@ Java-Learning-Journey/
 ├── Day-05/
 │   ├── Exercises/
 │   ├── PRACTICE-QUESTIONS.md
+│   └── README.md
+│
+├── Day-06-07/
+│   ├── Exercises/
+│   ├── PRACTICE-QUESTIONS.md
+│   ├── DataTypes.java
 │   └── README.md
 │
 ├── assets/
