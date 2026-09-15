@@ -751,7 +751,7 @@ STATIC   → CLASS
 ## Visual Note
 
 ![Java Day 06–07 — Data Types & Variables](../assets/java-day-06-07-data-types-and-variables.png)
-Day-06-07
+
 ---
 
 # 23. Memory View
