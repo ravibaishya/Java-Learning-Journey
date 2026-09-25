@@ -169,7 +169,7 @@ reduces the value by one.
 ---
 ## Visual Note
 
-![Java Day 08 — Operators](assets/day-08-operators.png)
+![Java Day 08 — Operators](../assets/day-08-operators.png)
 
 ---
 
