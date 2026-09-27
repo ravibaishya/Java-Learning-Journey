@@ -705,6 +705,12 @@ This is much deeper than simply memorizing:
 Now we are starting to reason about **how initialization flows through the class hierarchy**.
 
 ---
+## Visual Note
+
+![Java Day 15 — Constructor Chaining](../assets/java-day-15-Constructor-Chaining.png)
+
+---
+
 
 # Practical Focus
 
