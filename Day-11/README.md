@@ -519,6 +519,12 @@ An IDE helps with many steps in this workflow.
 But the developer still needs to understand what the software is supposed to accomplish.
 
 ---
+## Visual Note
+
+![Java Day 11 — From Writing Code to Working Like a Developer](../assets/java-day-11-Writing-Code-to-Working-Like-a-Developer.png)
+
+---
+
 
 # Practical Eclipse Skills Introduced
 
