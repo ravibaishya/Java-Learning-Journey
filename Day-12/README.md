@@ -290,6 +290,12 @@ Local Project
 The goal at this stage was understanding the workflow, not advanced Git operations.
 
 ---
+## Visual Note
+
+![Java Day 12 — From Classes to Objects](../assets/java-day-12-Classes-to-Objects.png)
+
+---
+
 
 ## Practical Focus
 
