@@ -355,7 +355,12 @@ main() receives result
 ```
 
 Follow Java naming conventions.
+---
+## Visual Note
 
+![Java Day 09 — Methods](../assets/java-day-09-methods.png)
+
+---
 ## Quick Revision
 
 ```text
