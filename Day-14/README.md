@@ -660,6 +660,12 @@ Locate the Actual Problem
 ```
 
 ---
+## Visual Note
+
+![Java Day 14 — Debugging Beyond the Code](../assets/java-day-14-Debugging-Beyond-the-Code.png)
+
+---
+
 
 ## Practical Checklist
 
