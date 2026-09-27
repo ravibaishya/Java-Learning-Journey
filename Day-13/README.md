@@ -619,6 +619,12 @@ and observe the compilation error.
 This helps build the mental model of constructor matching.
 
 ---
+## Visual Note
+
+![Java Day 13 — Constructors in Depth](../assets/java-day-13-Constructors.png)
+
+---
+
 
 ## Day 13 Learning Map
 
