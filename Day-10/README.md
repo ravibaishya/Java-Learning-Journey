@@ -476,6 +476,11 @@ public → private
 and recompiling before testing again.
 
 ---
+## Visual Note
+
+![Java Day 10 — Access Modifiers, Packages & Visibility](../assets/java-day-10-Access-Modifiers-Packages-n-Visibility.png)
+
+---
 
 # Quick Revision
 
