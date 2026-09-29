@@ -670,6 +670,11 @@ The session's practical work connected Java syntax with application-style scenar
 - Comparing `this(...)` and `super(...)`
 
 ---
+## Visual Note
+
+![Java Day 16 — Constructor Inheritance](../assets/java-day-16-Constructor-Inheritance.png)
+
+---
 
 ## Key Takeaways
 
