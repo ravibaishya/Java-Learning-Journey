@@ -651,6 +651,11 @@ for (int index = 0; index < cities.length; index++) {
 This avoids hardcoding the array size.
 
 ---
+## Visual Note
+
+![Java Day 18 — Java Array and For Loops](../assets/java-day-18-Arrays-and-For-Loops-Infographic.png)
+
+---
 
 # 20. Processing Every Array Element
 
